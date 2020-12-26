@@ -1,0 +1,2 @@
+# sbt-animation
+ new
